@@ -1,0 +1,22 @@
+@import url("https://fonts.googleapis.com/css2?family=Amatic+SC&family=Kranky&family=Mulish:ital,wght@1,300&family=Spectral:ital,wght@1,300&family=The+Girl+Next+Door&display=swap");
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-size: 48px;
+}
+
+body {
+  background-color: aqua;
+  color: purple;
+  font-family: "Spectral", serif;
+}
+body p {
+  font-family: "The Girl Next Door", cursive;
+  color: purple;
+  background-color: #5d5dd4;
+}
+body h1 {
+  font-family: "Kranky", cursive;
+  font-size: 2.5rem;
+}

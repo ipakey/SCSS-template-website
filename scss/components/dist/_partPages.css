@@ -1,0 +1,16 @@
+@import url("https://fonts.googleapis.com/css2?family=Amatic+SC&family=Kranky&family=Mulish:ital,wght@1,300&family=Spectral:ital,wght@1,300&family=The+Girl+Next+Door&display=swap");
+header {
+  background: #5d5dd4;
+  display: flex;
+  justify-content: center;
+}
+header button {
+  background: #70127c;
+  font-family: "Amatic SC", cursive;
+  font-size: 1.25rem;
+  margin: 5px 20px;
+}
+header button:hover {
+  background: lightgreen;
+  color: #2a2a79;
+}

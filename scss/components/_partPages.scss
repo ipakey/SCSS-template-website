@@ -1,0 +1,18 @@
+@use "../abstracts" as a;
+
+header{
+    background: a.$header-bg;
+    display: flex;
+    justify-content: center;
+    
+    button{
+        background: a.$pri-btn;
+        font-family: a.$Am;
+        font-size: 1.25rem ;
+        margin: 5px 20px;
+        &:hover{
+            background: a.$sec-btn;
+            color: a.$btn-txt;
+        }
+    }
+}
